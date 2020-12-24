@@ -2,7 +2,9 @@
 practice websites
 <DOCTYPE html>
   <html>
-    <head> </head>
+    <head> 
+      <title> this is my project</title>
+    </head>
     
     <body>
        <h1> This is your  succes </h1>
